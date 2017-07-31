@@ -4,14 +4,14 @@
 ------
 ## Table of Contents
 <ol>
-	<li><a href='#Python'>Python</a></li>
+	<li><a href=#python >Python</a></li>
 </ol>
 
 ------
 ## Python
 みんな大好きPythonの廃材及びエッセンス<br>
 + Collection.py<br>
-Javascriptの万能コレクションみたいに使えるObject(<a href='#c1'>注1</a>)を作りたかった。__setattribute__の扱いが分からず一時凍結。
+Javascriptの万能コレクションみたいに使えるObject(<a href=#c1 >注1</a>)を作りたかった。__setattribute__の扱いが分からず一時凍結。
 
 ---
 
