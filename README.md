@@ -15,7 +15,7 @@ Javascriptの万能コレクションみたいに使えるObject(<a href=#fcomm>
 
 ---
 
-<font id=fcomm>注1 Javascriptのオブジェクト:</font><br>
+###### 注1 Javascriptのオブジェクト:
 var obj = new Object();<br>
 obj.a = "Attribute";<br>
 的に使えるオブジェクト<br>
