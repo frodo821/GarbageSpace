@@ -18,6 +18,6 @@ Javascriptの万能コレクションみたいに使えるObject(<a href=#注1-j
 ###### 注1 Javascriptのオブジェクト:
 var obj = new Object();<br>
 obj.a = "Attribute";<br>
-的に使えるオブジェクト<br>
+的に使える。<br>
 
 ---
